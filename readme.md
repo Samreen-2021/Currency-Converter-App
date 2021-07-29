@@ -18,4 +18,4 @@
 - Click on the Convert Button. 
 - Find the result below. 
 
-## Live Link: https://samreen-2021.github.io/Currency-Convertor-App/
+## Live Link: https://samreen-2021.github.io/Currency-Converter-App/
